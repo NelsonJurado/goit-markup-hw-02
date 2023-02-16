@@ -1,0 +1,103 @@
+body {
+    background-color: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    color: #757575;
+}
+
+.button-edit, .button-header{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1em;
+    letter-spacing: 0.02em;
+    cursor: pointer;
+}
+.button-header{
+    color: #212121;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+}
+
+.button-edit:hover{
+    color: #2196F3;
+}
+.button-header:hover{
+    color: #2196F3;
+}
+
+.solution{
+    background-color: #2F303A;
+}
+
+.nav-button{
+    background-color: #2196F3;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.938em;
+    border-color: black;
+    cursor: pointer;
+}
+
+.nav-link{
+    font-family: 'raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #2196F3;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 3.75em;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    letter-spacing: 0.06em;
+    text-align: center;
+}
+
+h2{
+    color: #212121;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: capitalize;
+}
+
+h3{
+    color: #212121;
+    text-transform: uppercase;
+}
+
+h4{
+    color: #212121;
+}
+.advantages{
+    letter-spacing: 0.03em;
+}
+a{
+    color: #757575;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+}
+.direction{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5em;
+    letter-spacing: 0.03em;
+    color:#FFFFFF;
+    font-style:normal;
+}
+
+footer{
+    background-color: #2F303A;
+}
+.find-us-at{
+    color: #FFFFFF;
+}
+li{
+    list-style: none;
+}
